@@ -15,10 +15,11 @@ A major advantage of using Python for game development is that the language is v
 
 ![about](https://github.com/rakshanda22/Jewel-Thief-Game/blob/master/about.png)
 
+![entry_screen](https://github.com/rakshanda22/Jewel-Thief-Game/blob/master/window1.png)
 
-![entry screen] (https://github.com/rakshanda22/Jewel-Thief-Game/window1.png)
-![game screen] (https://github.com/rakshanda22/Jewel-Thief-Game/game.png)
-![game over] (https://github.com/rakshanda22/Jewel-Thief-Game/game_over.png)
+![game_screen](https://github.com/rakshanda22/Jewel-Thief-Game/blob/master/game.png)
+
+![game_over](https://github.com/rakshanda22/Jewel-Thief-Game/blob/master/game_over.png)
 
 ## Future Scope
 This project can be further improved by addition of 
