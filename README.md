@@ -14,6 +14,8 @@ Pygame library of Python is exclusively dedicated for game development and one  
 A major advantage of using Python for game development is that the language is very easy to learn 
 
 ![about](https://github.com/rakshanda22/Jewel-Thief-Game/about.png)
+
+
 ![entry screen] (https://github.com/rakshanda22/Jewel-Thief-Game/window1.png)
 ![game screen] (https://github.com/rakshanda22/Jewel-Thief-Game/game.png)
 ![game over] (https://github.com/rakshanda22/Jewel-Thief-Game/game_over.png)
